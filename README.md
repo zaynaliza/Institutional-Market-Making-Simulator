@@ -20,8 +20,6 @@
 
 ## What It Does
 
-This isn't a toy example. It implements real institutional techniques:
-
 ### **Risk Management**
 - **VPIN Detection** - Identifies toxic flow, widens spreads automatically when informed traders arrive
 - **Avellaneda-Stoikov** - Optimal inventory management using reservation price framework
